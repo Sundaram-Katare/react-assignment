@@ -44,6 +44,7 @@ A full-featured CRUD application built with React and Redux Toolkit, fetching da
 
 3. **Install the dependencies**
 ```bash
+  cd react-assignment
   npm install
 ```
 
